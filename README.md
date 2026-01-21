@@ -1,4 +1,4 @@
-<h1 align="center">Holla 👋I'm Kadek Indra Pebriana Putra</h1>
+<h1>Holla 👋I'm Kadek Indra Pebriana Putra</h1>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indrapbrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kdindrapbrn ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/indrapbrn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kadekindra784@gmail.com) 
